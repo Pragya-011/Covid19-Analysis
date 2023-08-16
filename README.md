@@ -38,7 +38,7 @@ Statistical methods were applied to calculate recovery rates, death rates, and o
 - `Covid_Project.sql`: SQL queries used for data analysis.
 - `csv_files/`: Directory containing extracted and cleaned CSV files.
 - `main_dashboard.xlsx`: Excel file containing interactive dashboards and summarised insights.
-- `project_presentation.pdf`: Presentation summarizing data analysis and findings.
+- `project_presentation.pptx`: Presentation summarizing data analysis and findings.
 
 ## Usage
 
@@ -46,7 +46,7 @@ Statistical methods were applied to calculate recovery rates, death rates, and o
 2. Explore the SQL queries and insights in the `Covid_Project.sql` file.
 3. Examine the cleaned CSV files stored in the `csv_files/` directory.
 4. Access interactive dashboards and summarized insights in the `main_dashboard.xlsx` file.
-5. Gain deeper insights from the presentation in the `project_presentation.pdf` file.
+5. Gain deeper insights from the presentation in the `project_presentation.pptx` file.
 
 ## Acknowledgments
 
