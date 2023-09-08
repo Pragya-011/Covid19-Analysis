@@ -14,11 +14,23 @@ The **COVID-19 India: Data Analysis** project involves extracting COVID-19 data 
 ## <img src="https://clipartmag.com/images/pictures-of-animated-books-20.gif" width="48" height="48"> **Table of Contents**
 
 - [Project Overview](#project-overview)
+- [User's Manual](#usage)
 - [Data Extraction and Preprocessing](#data-extraction-and-preprocessing)
 - [Data Analysis](#data-analysis)
 - [Insights and Visualizations](#insights-and-visualizations)
-- [User's Manual](#usage)
 - [Acknowledgments](#acknowledgments)
+
+<br>
+
+## <h2 class="section-heading" id="usage"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="50" height="50"></a> User's Manual</h2>
+
+| Files/Folder| Description |
+| ------------- | ------------- |
+| **`Covid_Project_json_to_csv.ipynb`** | Review the Jupyter Notebook for data extraction process and conversion from JSON to CSV files |
+| **`Covid_Project.sql`** | Explore the SQL queries used for data analysis  |
+| **`csv_files/`** | Examine the extracted and cleaned CSV files  |
+| **`main_dashboard.xlsx`** | Access Excel file containing interactive dashboards and summarized insights |
+| **`project_presentation.pptx`** | Gain deeper insights from the presentation of summarised data analysis and findings|
 
 <br>
 
@@ -32,27 +44,15 @@ Python was used to extract data from JSON files and convert it to CSV format. Ke
 
 <br>
 
-## <h2 class="section-heading" id="data-analysis"><a href="your_link_here"><img src="https://media.tenor.com/UOlZB9S6Yh8AAAAd/civid19-coronavirus.gif" width="50" height="50"></a> Data Analysis</h2>
+## <h2 class="section-heading" id="data-analysis"><a href="your_link_here"><img src="https://media.tenor.com/RNVWPrQuO70AAAAi/covid19-corona.gif" width="50" height="50"></a> Data Analysis</h2>
 
 The extracted and cleaned data was analyzed using a combination of SQL queries and Excel. SQL queries are documented in the "Covid_Project.sql" file, providing insights derived from various tables.
 
 <br>
 
-## <h2 class="section-heading" id="insights-and-visualizations"><a href="your_link_here"><img src="https://media.tenor.com/fURYkjRh2-gAAAAM/corona-corona-news.gif" width="50" height="50"></a> Insights and Visualizations</h2>
+## <h2 class="section-heading" id="insights-and-visualizations"><a href="your_link_here"><img src="https://media.tenor.com/0YvVQiyjV_UAAAAi/home-coronavirus.gif" width="50" height="50"></a> Insights and Visualizations</h2>
 
 Statistical methods were applied to calculate recovery rates, death rates, and other relevant metrics. Visualizations, such as graphs, were created using Excel to represent key findings in an informative and engaging manner.
-
-<br>
-
-## <h2 class="section-heading" id="usage"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="50" height="50"></a> User's Manual</h2>
-
-| Files/Folder| Description |
-| ------------- | ------------- |
-| **`Covid_Project_json_to_csv.ipynb`** | Review the Jupyter Notebook for data extraction process and conversion from JSON to CSV files |
-| **`Covid_Project.sql`** | Explore the SQL queries used for data analysis  |
-| **`csv_files/`** | Examine the extracted and cleaned CSV files  |
-| **`main_dashboard.xlsx`** | Access Excel file containing interactive dashboards and summarized insights |
-| **`project_presentation.pptx`** | Gain deeper insights from the presentation of summarised data analysis and findings|
 
 <br>
 
