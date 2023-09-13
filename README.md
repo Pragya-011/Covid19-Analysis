@@ -35,10 +35,10 @@ This project's primary goal is to conduct a comprehensive analysis of the COVID-
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **`Covid_Project_json_to_csv.ipynb`** | Review the Jupyter Notebook for data extraction process and conversion from JSON to CSV files |
-| **`Covid_Project.sql`** | Explore the SQL queries used for data analysis  |
-| **`csv_files/`** | Examine the extracted and cleaned CSV files  |
-| **`main_dashboard.xlsx`** | Access Excel file containing interactive dashboards and summarized insights |
+| **`Python File`** | Review the Jupyter Notebook for data extraction process and conversion from JSON to CSV files |
+| **`SQL File`** | Explore the SQL queries used for data analysis  |
+| **`Data`** | Examine the extracted and cleaned CSV files  |
+| **`Visualization`** | Access Excel file containing interactive dashboards and summarized insights |
 | **`project_presentation.pptx`** | Gain deeper insights from the presentation of summarised data analysis and findings|
 
 <br>
@@ -50,14 +50,14 @@ This project's primary goal is to conduct a comprehensive analysis of the COVID-
    - [Dataset 2](https://data.covid19india.org/v4/min/timeseries.min.json)
 
 - After the extraction process Null values were identified and replaced with zeros, and duplicates were checked for with the application of pandas functions, including grouping and sorting. To extract specific data from nested dictionaries, nested 'for' loops were employed.
-- Finally, individual state and city data was saved in CSV format. The data extraction process is documented under the "Python_files" in the "Covid_Project_json_to_csv.ipynb".
+- Finally, individual state and city data was saved in CSV format. The data extraction process is documented under the "Python Files" in the "Extraction_and_Preprocessing.ipynb".
 
 
 <br>
 
 ## <h2 class="section-heading" id="data-exploration"><a href="your_link_here"><img src="https://media.tenor.com/RNVWPrQuO70AAAAi/covid19-corona.gif" width="50" height="50"></a> Data Exploration</h2>
 
-The extracted and cleaned data saved in CSV files was subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19.SQL queries are documented in the "Covid_Project.sql" file, providing insights derived from various tables.
+The extracted and cleaned data saved in "Data" was subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the "SQL File directory" in the "Covid_Project.sql" file, providing insights derived from various tables.
 
 
 <br>
