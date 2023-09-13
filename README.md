@@ -1,5 +1,5 @@
 <h1 align = "center">
-  COVID Data Analysis
+  COVID-19 Analysis
 </h1>
 
 <p align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/cf748494602367.5e8315fc8ca1f.gif" width="500" ></p>
@@ -17,7 +17,7 @@ The **COVID-19 India: Data Analysis** project involves extracting COVID-19 data 
 - [Problems Aim to Solve](#objective)
 - [User's Manual](#usage)
 - [Data Extraction and Preprocessing](#data-extraction-and-preprocessing)
-- [Data Analysis](#data-analysis)
+- [Data Exploration](#data-exploration)
 - [Insights and Visualizations](#insights-and-visualizations)
 - [Challenges and Learnings](#challenges_and_learnings)
 - [Future Scope](#future_scope)
@@ -92,5 +92,5 @@ The extracted and cleaned data saved in CSV files was subsequently analyzed usin
 
 <br>
 
-## <h2 class="section-heading" id="conclusion"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60" height="60"></a> Conclusion</h2>
+## <h2 class="section-heading" id="conclusion"><a href="your_link_here"><img src="https://media.tenor.com/F02KJwYr6yYAAAAC/conclusion-the-band-conclusion-bd.gif" width="50" height="50"></a> Conclusion</h2>
 In summary, this project successfully conducted a thorough analysis of COVID-19 data, enabling insights into the pandemic's trends and impacts. The utilization of data extraction, cleaning, and visualization techniques, coupled with an interactive dashboard, proved instrumental in understanding the evolving situation. This project contributes valuable information for ongoing pandemic management and future preparedness efforts.
