@@ -55,7 +55,7 @@ This project's primary goal is to conduct a comprehensive analysis of the COVID-
 
 <br>
 
-## <h2 class="section-heading" id="data-exploration"><a href="your_link_here"><img src="https://media.tenor.com/RNVWPrQuO70AAAAi/covid19-corona.gif" width="50" height="50"></a> Data Exploration</h2>
+## <h2 class="section-heading" id="data-exploration"><a href="your_link_here"><img src="https://media2.giphy.com/media/KCf404MB5xs43PCic5/giphy.gif" width="50" height="50"></a> Data Exploration</h2>
 
 The extracted and cleaned data saved in "Data" was subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the "SQL File directory" in the "Covid_Project.sql" file, providing insights derived from various tables.
 
@@ -92,5 +92,5 @@ The extracted and cleaned data saved in "Data" was subsequently analyzed using a
 
 <br>
 
-## <h2 class="section-heading" id="conclusion"><a href="your_link_here"><img src="https://media.tenor.com/F02KJwYr6yYAAAAC/conclusion-the-band-conclusion-bd.gif" width="50" height="50"></a> Conclusion</h2>
+## <h2 class="section-heading" id="conclusion"><a href="your_link_here"><img src="https://media.tenor.com/RNVWPrQuO70AAAAi/covid19-corona.gif" width="50" height="50"></a> Conclusion</h2>
 In summary, this project successfully conducted a thorough analysis of COVID-19 data, enabling insights into the pandemic's trends and impacts. The utilization of data extraction, cleaning, and visualization techniques, coupled with an interactive dashboard, proved instrumental in understanding the evolving situation. This project contributes valuable information for ongoing pandemic management and future preparedness efforts.
