@@ -74,10 +74,16 @@ Statistical methods were applied to calculate recovery rates, death rates, and o
  - October recorded the highest number of deceased cases.
 
 <br>
+<p align="center"><img src="https://github.com/Pragya-011/Covid_19_India/assets/118491345/09727668-4c2f-4f75-a3ad-6c53ce60c4f9" ></p>
+
+<br>
 
 ## <h2 class="section-heading" id="dashboard"><a href="your_link_here"><img src="https://media.tenor.com/Tw7ociOZPzkAAAAM/spreadsheet-animated.gif" width="50" height="50"></a> Excel Dashboard</h2>
 The project concludes with an engaging Excel dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Visualization`](Visualization/main_dashboard.xlsx) directory contains the Excel dashboard in ".xlsx" format.
-
+<br>
+<p align="center"><img src="https://github.com/Pragya-011/Covid_19_India/assets/118491345/1542e0df-62f0-44f2-83d6-82e70381d81a" ></p>
+<br>
+<p align="center"><img src="https://github.com/Pragya-011/Covid_19_India/assets/118491345/b9645580-cc3e-435b-a972-1bcca66168f6" ></p>
 
 <br>
 
