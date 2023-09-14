@@ -94,7 +94,6 @@ The project concludes with an engaging Excel dashboard. This interface is design
  - Domain Understanding: Deepened knowledge in public health and epidemiology through data analysis.
  - Collaborative Workflow: Leveraged teamwork and version control for successful project execution.
 
-<br>
 
 ## <h2 class="section-heading" id="future_scope"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="60" height="60"></a> Future Scope</h2>
  - Continuous state-level trend monitoring informs timely interventions and resource allocation.
@@ -102,7 +101,6 @@ The project concludes with an engaging Excel dashboard. This interface is design
  - Guide preparedness efforts for future health crises and pandemic response strategies.
  - Policymakers can leverage data-driven insights to implement targeted measures for disease control and healthcare resource allocation.
 
-<br>
 
 ## <h2 class="section-heading" id="conclusion"><a href="your_link_here"><img src="https://media.tenor.com/RNVWPrQuO70AAAAi/covid19-corona.gif" width="50" height="50"></a> Conclusion</h2>
 In summary, this project successfully conducted a thorough analysis of COVID-19 data, enabling insights into the pandemic's trends and impacts. The utilization of data extraction, cleaning, and visualization techniques, coupled with an interactive dashboard, proved instrumental in understanding the evolving situation. This project contributes valuable information for ongoing pandemic management and future preparedness efforts.
