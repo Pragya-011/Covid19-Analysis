@@ -58,7 +58,7 @@ This project's primary goal is to conduct a comprehensive analysis of the COVID-
 
 ## <h2 class="section-heading" id="data-exploration"><a href="your_link_here"><img src="https://media2.giphy.com/media/KCf404MB5xs43PCic5/giphy.gif" width="50" height="50"></a> Data Exploration</h2>
 
-The extracted and cleaned data saved in [`Data`](Data) was subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the [`SQL File`](SQL%20File) in ".sql" format, providing insights derived from various tables.
+The extracted and cleaned data saved in CSV under [`Data`](Data), subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the [`SQL File`](SQL%20File) in ".sql" format, providing insights derived from various tables.
 
 
 <br>
@@ -76,7 +76,7 @@ Statistical methods were applied to calculate recovery rates, death rates, and o
 <br>
 
 ## <h2 class="section-heading" id="dashboard"><a href="your_link_here"><img src="https://media.tenor.com/Tw7ociOZPzkAAAAM/spreadsheet-animated.gif" width="50" height="50"></a> Excel Dashboard</h2>
-The project concludes with an engaging Excel dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Visualization`](Visualization\main_dashboard.xlsx) directory contains the Excel dashboard in ".xlsx" format.
+The project concludes with an engaging Excel dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Visualization`](Visualization/main_dashboard.xlsx) directory contains the Excel dashboard in ".xlsx" format.
 
 
 <br>
