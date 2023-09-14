@@ -13,15 +13,16 @@ The **COVID-19 India: Data Analysis** project involves extracting COVID-19 data 
 
 ## <img src="https://clipartmag.com/images/pictures-of-animated-books-20.gif" width="48" height="48"> **Table of Contents**
 
-- [Project Overview](#project-overview)
-- [Problems Aim to Solve](#objective)
-- [User's Manual](#usage)
-- [Data Extraction and Preprocessing](#data-extraction-and-preprocessing)
-- [Data Exploration](#data-exploration)
-- [Insights and Visualizations](#insights-and-visualizations)
-- [Challenges and Learnings](#challenges_and_learnings)
-- [Future Scope](#future_scope)
-- [Conclusion](#conclusion)
+- [`Project Overview`](#project-overview)
+- [`Problems Aim to Solve`](#objective)
+- [`User's Manual`](#usage)
+- [`Data Extraction and Preprocessing`](#data-extraction-and-preprocessing)
+- [`Data Exploration`](#data-exploration)
+- [`Insights and Visualizations`](#insights-and-visualizations)
+- [`Excel Dashboard`](#dashboard)
+- [`Challenges and Learnings`](#challenges_and_learnings)
+- [`Future Scope`](#future_scope)
+- [`Conclusion`](#conclusion)
 
 <br>
 
@@ -35,36 +36,35 @@ This project's primary goal is to conduct a comprehensive analysis of the COVID-
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **`Python File`** | Review the Jupyter Notebook for data extraction process and conversion from JSON to CSV files |
-| **`SQL File`** | Explore the SQL queries used for data analysis  |
-| **`Data`** | Examine the extracted and cleaned CSV files  |
-| **`Visualization`** | Access Excel file containing interactive dashboards and summarized insights |
-| **`project_presentation.pptx`** | Gain deeper insights from the presentation of summarised data analysis and findings|
+| **[`Python File`](Python%20File)** | Review the Jupyter Notebook for data extraction process and conversion from JSON to CSV files |
+| **[`SQL File`](SQL%20File)** | Explore the SQL queries used for data analysis  |
+| **[`Data`](Data)** | Examine the extracted and cleaned CSV files  |
+| **[`Visualization`](Visualization)** | Access Excel file containing interactive dashboards and summarized insights |
+| **[`Project_Presentation.pptx`](Project_Presentation.pptx)** | Gain deeper insights from the presentation of summarised data analysis and findings|
 
 <br>
 
 ## <h2 class="section-heading" id="data-extraction-and-preprocessing"><a href="your_link_here"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"></a> Data Extraction and Preprocessing</h2>
 
 - The data extraction and preprocessing phase involved importing the above data from an API using the requests library. Upon retrieval, the JSON-formatted data was parsed using the JSON library. Two COVID-19 datasets were used for this project:
-   - [Dataset 1](https://data.covid19india.org/v4/min/data.min.json)
-   - [Dataset 2](https://data.covid19india.org/v4/min/timeseries.min.json)
+   - [`Dataset 1`](https://data.covid19india.org/v4/min/data.min.json)
+   - [`Dataset 2`](https://data.covid19india.org/v4/min/timeseries.min.json)
 
 - After the extraction process Null values were identified and replaced with zeros, and duplicates were checked for with the application of pandas functions, including grouping and sorting. To extract specific data from nested dictionaries, nested 'for' loops were employed.
-- Finally, individual state and city data was saved in CSV format. The data extraction process is documented under the "Python Files" in the "Extraction_and_Preprocessing.ipynb".
+- Finally, individual state and city data was saved in CSV format. The data extraction and preprocessing is documented under the [`Python File`](Python%20File) in the ".ipynb" format.
 
 
 <br>
 
 ## <h2 class="section-heading" id="data-exploration"><a href="your_link_here"><img src="https://media2.giphy.com/media/KCf404MB5xs43PCic5/giphy.gif" width="50" height="50"></a> Data Exploration</h2>
 
-The extracted and cleaned data saved in "Data" was subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the "SQL File directory" in the "Covid_Project.sql" file, providing insights derived from various tables.
+The extracted and cleaned data saved in [`Data`](Data) was subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the [`SQL File`](SQL%20File) in ".sql" format, providing insights derived from various tables.
 
 
 <br>
 
-## <h2 class="section-heading" id="insights-and-visualizations"><a href="your_link_here"><img src="https://media.tenor.com/Tw7ociOZPzkAAAAM/spreadsheet-animated.gif" width="50" height="50"></a> Insights and Visualizations</h2>
-
- - Statistical methods were applied to calculate recovery rates, death rates, and other relevant metrics. Visualizations, such as graphs, were created using Excel to represent key findings in an informative and engaging manner.
+## <h2 class="section-heading" id="insights-and-visualizations"><a href="your_link_here"><img src="https://www.advantagegroup.com/wp-content/uploads/2020/12/How-AR-Works-2.gif" width="50" height="50"></a> Insights and Visualizations</h2>
+Statistical methods were applied to calculate recovery rates, death rates, and other relevant metrics. Visualizations, such as graphs, were created using Excel to represent key findings in an informative and engaging manner.
  - From January 2020 to October 2021, India saw 34 million COVID-19 cases and approximately 450,000 deaths. The initial wave peaked in September 2020, and a second wave in March 2021 contributed to the highest number of confirmed cases.
  - Maharashtra recorded the highest number of confirmed and deceased COVID-19 cases.
  - Sikkim achieved the highest vaccination rate among states.
@@ -72,6 +72,12 @@ The extracted and cleaned data saved in "Data" was subsequently analyzed using a
  - The percentage of fully vaccinated is less than  50%  that of partially vaccinated.
  - Dadra and Nagar Haveli exhibited the highest recovery rate.
  - October recorded the highest number of deceased cases.
+
+<br>
+
+## <h2 class="section-heading" id="dashboard"><a href="your_link_here"><img src="https://media.tenor.com/Tw7ociOZPzkAAAAM/spreadsheet-animated.gif" width="50" height="50"></a> Excel Dashboard</h2>
+The project concludes with an engaging Excel dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Visualization`](Visualization\main_dashboard.xlsx) directory contains the Excel dashboard in ".xlsx" format.
+
 
 <br>
 
