@@ -65,13 +65,13 @@ The extracted and cleaned data saved in CSV under [`Data`](Data), subsequently a
 
 ## <h2 class="section-heading" id="insights-and-visualizations"><a href="your_link_here"><img src="https://www.advantagegroup.com/wp-content/uploads/2020/12/How-AR-Works-2.gif" width="50" height="50"></a> Insights and Visualizations</h2>
 Statistical methods were applied to calculate recovery rates, death rates, and other relevant metrics. Visualizations, such as graphs, were created using Excel to represent key findings in an informative and engaging manner.
- - From January 2020 to October 2021, India saw 34 million COVID-19 cases and approximately 450,000 deaths. The initial wave peaked in September 2020, and a second wave in March 2021 contributed to the highest number of confirmed cases.
- - Maharashtra recorded the highest number of confirmed and deceased COVID-19 cases.
- - Sikkim achieved the highest vaccination rate among states.
- - Uttar Pradesh reported the lowest vaccination rate.
- - The percentage of fully vaccinated is less than  50%  that of partially vaccinated.
- - Dadra and Nagar Haveli exhibited the highest recovery rate.
- - October recorded the highest number of deceased cases.
+ - `From January 2020 to October 2021, India saw 34 million COVID-19 cases and approximately 450,000 deaths. The initial wave peaked in September 2020, and a second wave in March 2021 contributed to the highest number of confirmed cases.`
+ - `Maharashtra recorded the highest number of confirmed and deceased COVID-19 cases.`
+ - `Sikkim achieved the highest vaccination rate among states.`
+ - `Uttar Pradesh reported the lowest vaccination rate.`
+ - `The percentage of fully vaccinated is less than  50%  that of partially vaccinated.`
+ - `Dadra and Nagar Haveli exhibited the highest recovery rate.`
+ - `October recorded the highest number of deceased cases.`
 
 <br>
 <p align="center"><img src="https://github.com/Pragya-011/Covid_19_India/assets/118491345/09727668-4c2f-4f75-a3ad-6c53ce60c4f9" ></p>
