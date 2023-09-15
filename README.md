@@ -83,7 +83,7 @@ The project concludes with an engaging Excel dashboard. This interface is design
 <br>
 <p align="center"><img src="https://github.com/Pragya-011/Covid_19_India/assets/118491345/1542e0df-62f0-44f2-83d6-82e70381d81a" ></p>
 <br>
-<p align="center"><img src="https://github.com/Pragya-011/Covid_19_India/assets/118491345/b9645580-cc3e-435b-a972-1bcca66168f6" ></p>
+<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/27b29dbd-357d-457f-96aa-5e8b66abd2e7" ></p>
 
 <br>
 
