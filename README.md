@@ -59,8 +59,6 @@ This project's primary goal is to conduct a comprehensive analysis of the COVID-
 ## <h2 class="section-heading" id="data-exploration"><a href="your_link_here"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/bb9a0f4e-a6b1-4b8d-9056-6ab2c51e1461" width="50" height="50"></a> Data Exploration</h2>
 
 The extracted and cleaned data saved in CSV under [`Data`](Data), subsequently analyzed using a combination of SQL queries and Excel. This involved querying the structured data to retrieve relevant information and perform calculations, aggregations, and statistical operations. The analysis aimed to uncover patterns, trends, and insights related to COVID-19. SQL queries are documented under the [`SQL File`](SQL%20File) in ".sql" format, providing insights derived from various tables.
-<br>
-<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/3f8f50cb-126a-451e-8ee0-33de9c561efa" ></p>
 
 
 <br>
@@ -77,8 +75,8 @@ Statistical methods were applied to calculate recovery rates, death rates, and o
 
 <br>
 <p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/7baa7b96-2401-464a-9929-c1d1118f9ffe" ></p>
-<br>
-<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/4405cd67-12f5-4eb3-bde0-06c4a7cbf723" ></p>
+<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/74689347-31b3-4be7-8b68-09173679e5ae" ></p>
+<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/ccb630c3-9d48-444b-9a87-aeb8b2d45f64" ></p>
 
 <br>
 
@@ -86,7 +84,7 @@ Statistical methods were applied to calculate recovery rates, death rates, and o
 The project concludes with an engaging Excel dashboard. This interface is designed to be user-friendly, offering dynamic visualizations and interactive features for effortless data exploration. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights. The [`Visualization`](Visualization/main_dashboard.xlsx) directory contains the Excel dashboard in ".xlsx" format.
 <br>
 <p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/b4423393-258b-4751-8243-49b8f35ed9ab" ></p>
-<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/d75eb370-769e-43ba-a8ef-97f323535d4d" ></p>
+<p align="center"><img src="https://github.com/Pragya-011/Covid19-Analysis/assets/118491345/ea4e39ce-5aee-4704-b9c4-81c964250fa9" ></p>
 
 <br>
 
